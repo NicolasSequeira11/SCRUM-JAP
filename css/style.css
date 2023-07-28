@@ -48,7 +48,7 @@ body{
 
 .banner h1{
     width: 60%;
-    font-size: 3.5em;
+    font-size: 3em;
     margin: auto;
     font-family: 'Syne', sans-serif;
     color: white;
@@ -57,7 +57,7 @@ body{
 .banner p{
     width: 60%;
     margin: 1em auto 0;
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight:normal;
     color: #d9e1ff;
     font-family: 'Arimo', sans-serif;
@@ -72,7 +72,7 @@ body{
 
 .titulo{
     font-family: 'Syne', sans-serif;
-    font-size: 3.5em;
+    font-size: 3em;
     color: white;
     margin: auto;
     padding: 0.5em 0;
@@ -83,7 +83,7 @@ body{
     padding: 0.5em 0;
     margin: auto;
     line-height: 1.5em;
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-family: 'Arimo', sans-serif;
 }
 
@@ -95,7 +95,7 @@ body{
 
 .contenido h2{
     font-family: 'Syne', sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
     margin: 0 auto;
     color: white;
 }
@@ -104,7 +104,7 @@ body{
     color: #d9e1ff;
     padding: 0.5em 0;
     margin: 0 auto;
-    font-size: 1.3em;
+    font-size: 1.1em;
     font-family: 'Arimo', sans-serif;
 }
 
